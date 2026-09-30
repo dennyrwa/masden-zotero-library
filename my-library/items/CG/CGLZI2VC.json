@@ -1,0 +1,130 @@
+{
+	"children": [
+		{
+			"accessDate": "2026-09-30T14:47:42Z",
+			"charset": "",
+			"contentType": "application/pdf",
+			"dateAdded": "2026-09-30T14:47:42Z",
+			"dateModified": "2026-09-30T14:47:42Z",
+			"itemType": "attachment",
+			"key": "3KIBCW9C",
+			"linkMode": "linked_url",
+			"parentItem": "CGLZI2VC",
+			"relations": {},
+			"tags": [],
+			"title": "qrfm-12-2023-0314.pdf",
+			"url": "https://www.emerald.com/qrfm/article-pdf/17/2/348/9673404/qrfm-12-2023-0314.pdf"
+		},
+		{
+			"accessDate": "2026-09-30T14:46:13Z",
+			"charset": "",
+			"contentType": "",
+			"dateAdded": "2026-09-30T14:46:13Z",
+			"dateModified": "2026-09-30T14:46:13Z",
+			"itemType": "attachment",
+			"key": "Y6DX6F9X",
+			"linkMode": "linked_url",
+			"parentItem": "CGLZI2VC",
+			"relations": {},
+			"tags": [],
+			"title": "9673404",
+			"url": "https://www.emerald.com/qrfm/article-media/1241453/pdfviewer/9673404"
+		}
+	],
+	"meta": {
+		"attachments": [
+			{
+				"annotationCount": 0,
+				"contentType": null,
+				"filename": null,
+				"files": [],
+				"key": "Y6DX6F9X",
+				"linkMode": "linked_url",
+				"status": "no-file",
+				"title": "9673404",
+				"url": "https://www.emerald.com/qrfm/article-media/1241453/pdfviewer/9673404"
+			},
+			{
+				"annotationCount": 0,
+				"contentType": "application/pdf",
+				"filename": null,
+				"files": [],
+				"key": "3KIBCW9C",
+				"linkMode": "linked_url",
+				"status": "no-file",
+				"title": "qrfm-12-2023-0314.pdf",
+				"url": "https://www.emerald.com/qrfm/article-pdf/17/2/348/9673404/qrfm-12-2023-0314.pdf"
+			}
+		],
+		"collections": [
+			"Quantitative Research Methods"
+		],
+		"creators": [
+			"Del Sarto, Nicola",
+			"Bocchialini, Elisa",
+			"Gai, Lorenzo",
+			"Ielasi, Federica"
+		],
+		"itemType": "journalArticle",
+		"libraryID": 1,
+		"libraryName": "My Library",
+		"notes": [],
+		"title": "Digital Banking: How Social Media Is Shaping the Game",
+		"year": "2025",
+		"zoteroURI": "zotero://select/library/items/CGLZI2VC"
+	},
+	"zotero": {
+		"DOI": "10.1108/QRFM-12-2023-0314",
+		"ISSN": "1755-4179, 1755-4187",
+		"abstractNote": "Purpose\n              This paper aims to explore the transformative influence of social media applications on the digital evolution of banks. Using a multiple case study approach, this study investigates how Italian banks have adopted social media in their digital transformation. The study seeks to uncover strategies used by banks to maximise the benefits of social media platforms and assess the outcomes and challenges faced during this process. The results provide valuable insights for banks navigating digital transformation, emphasising the importance of organisational culture, client engagement, financial innovation and proactive response to fintech disruptions.\n            \n            \n              Design/methodology/approach\n              This study uses a multiple case study approach to investigate the influence of social media applications on the digital transformation of banks. Six Italian banks that integrated social media into their digital transformation efforts are analysed. The research examines the strategies used by these banks to effectively leverage social media platforms. The outcomes and implications of these initiatives are scrutinised to discern both positive impacts and challenges faced by banks and customers. The research methodology involves in-depth analysis of case studies, incorporating insights from managerial interviews to underscore key aspects essential for successful digital adaptation in the banking sector.\n            \n            \n              Findings\n              This study reveals profound impacts of digital transformation on the banking sector, emphasising key implementation areas. Insights gleaned from case studies of six Italian banks underscore the transformative influence of social media applications. Results highlight positive impacts, including enhanced customer service, engagement, financial literacy and community building. Managerial interviews underscore five critical aspects: the imperative for a new organisational culture, a focus on millennial clients, understanding and offering new financial instruments and proactive responses to challenges posed by emerging fintech companies. Successful adaptation necessitates attention to organisational culture, client engagement, financial innovation and proactive response to fintech disruptions. The findings contribute to the evolving understanding of the transformative role of social media in reshaping the banking industry.\n            \n            \n              Originality/value\n              This paper fills a critical research gap by delving into the challenges specific to banking institutions during the implementation of social media strategies amid digital transformation. While existing literature predominantly highlights positive impacts, this study pioneers a comprehensive exploration of unique hurdles faced by banks. The multiple case study approach, focusing on six Italian banks, contributes original insights into the strategies used to maximise social media benefits. The research provides a nuanced understanding of both positive impacts and challenges encountered, offering valuable guidance for refining social media approaches in the ever-evolving digital landscape. This contributes to the existing body of knowledge and aids banks in navigating their digital transformation journey effectively.",
+		"accessDate": "2025-12-11T08:03:11Z",
+		"collections": [
+			"JADUG3ZI"
+		],
+		"creators": [
+			{
+				"creatorType": "author",
+				"firstName": "Nicola",
+				"lastName": "Del Sarto"
+			},
+			{
+				"creatorType": "author",
+				"firstName": "Elisa",
+				"lastName": "Bocchialini"
+			},
+			{
+				"creatorType": "author",
+				"firstName": "Lorenzo",
+				"lastName": "Gai"
+			},
+			{
+				"creatorType": "author",
+				"firstName": "Federica",
+				"lastName": "Ielasi"
+			}
+		],
+		"date": "2025-02-11",
+		"dateAdded": "2025-12-11T08:03:11Z",
+		"dateModified": "2026-09-30T14:43:45Z",
+		"extra": "GSCC: 0000054 2026-09-30T14:43:45.502Z 0.63",
+		"issue": "2",
+		"itemType": "journalArticle",
+		"journalAbbreviation": "QRFM",
+		"key": "CGLZI2VC",
+		"language": "en",
+		"libraryCatalog": "DOI.org (Crossref)",
+		"pages": "348-369",
+		"publicationTitle": "Qualitative Research in Financial Markets",
+		"relations": {},
+		"rights": "https://www.emerald.com/insight/site-policies",
+		"shortTitle": "Digital Banking",
+		"tags": [
+			{
+				"tag": "MetadataHunter: No Richer Record"
+			}
+		],
+		"title": "Digital Banking: How Social Media Is Shaping the Game",
+		"url": "http://www.emerald.com/qrfm/article/17/2/348-369/1241453",
+		"volume": "17"
+	}
+}
